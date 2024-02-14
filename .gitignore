@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Bash history files
+.history
+.bash_history
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
